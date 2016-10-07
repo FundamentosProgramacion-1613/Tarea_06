@@ -1,6 +1,6 @@
 # Tarea 06
 
-Ciclo while
+##Ciclo while
 
 Consulta el documento pdf para ver cada problema que debes resolver.
 
