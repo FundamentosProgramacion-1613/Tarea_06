@@ -3,7 +3,7 @@
 #Programas con while
 
 
-#Calcular cantidad de insectos, dias que han pasado, etc.
+#Calcular cantidad de insectos recolectados, dias que han pasado, etc.
 def calcularInsectos():
     insectos = 0
     dias = 0
@@ -23,7 +23,7 @@ def calcularInsectos():
         print ("Te has pasado por",sobra,"insecto(s)")
     print ("Felicidades has llegado a la meta")
 
-#Buscar el numero ma grande de 
+#Buscar el numero mas grande 
 def buscarGrande():
     m = 0
     n = 0
