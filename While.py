@@ -15,9 +15,9 @@ def calcularInsectos():
         dias += 1
         print ("Despues de",dias,"dia(s) de recoleccion, has acumulado",insectost,"insecto(s)")
         if insectost < 30:
-            print ("Te faltan",falta,"insectos")
+            print ("Te faltan",falta,"insecto(s)")
         if insectost == 30:
-            print ("Te faltan",falta,"insectos")
+            print ("Te faltan",falta,"insecto(s)")
     if insectost > 30:
         sobra = falta * (-1)
         print ("Te has pasado por",sobra,"insecto(s)")
